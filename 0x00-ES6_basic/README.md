@@ -1,7 +1,3 @@
-Toggle navigation
-Curriculum
-Short Specializations
-Average: 0.0%
 0x00. ES6 Basics
 JavaScript
 ES6
